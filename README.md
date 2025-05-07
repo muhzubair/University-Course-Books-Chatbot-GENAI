@@ -2,6 +2,11 @@
 
 ### This project will help me review the data science concepts I leared in University from different course books
 
+
+![image](https://github.com/user-attachments/assets/5fa59948-b780-4b42-bfe9-0bc2074929f1)
+
+
+
 # How to run?
 ### STEPS:
 
